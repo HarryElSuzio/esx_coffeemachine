@@ -9,8 +9,8 @@
 # Installation:
 1.Download https://github.com/HarryElSuzio/esx_coffeemachine/archive/master.zip .
 
-2.Extract zip in ´esx´ directory and rename folder to ´esx_coffemachine´ .
+2.Extract zip in `esx` directory and rename folder to `esx_coffemachine` .
 
-3.Add add in your file server.cfg ´start esx_coffemachine´ .
+3.Add add in your file server.cfg `start esx_coffemachine` .
 
 
