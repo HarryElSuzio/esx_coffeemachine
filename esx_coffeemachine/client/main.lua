@@ -23,7 +23,7 @@ end)
 
 function OpenShopMenu(zone)
 	local elements = {}
-	TriggerServerEvent('esx_coffeemachine:buyItem', "cocacola", 1)
+	TriggerServerEvent('esx_coffeemachine:buyItem', "water", 1)
 end
 
 AddEventHandler('esx_coffeemachine:hasEnteredMarker', function(zone)
